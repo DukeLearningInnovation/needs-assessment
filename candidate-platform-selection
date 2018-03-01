@@ -1,0 +1,32 @@
+# Candidate selection
+
+Our Duke Extend service team's initial list of candidate platforms included:
+* Tsugi
+* ELMS LN
+* WordPress LMS plug-ins
+* Drupal distributions
+* Moodle Academy
+* OpenCraft hosting of Open edX
+
+After discussion with our Learning Innovation admin team and others, and some research online into available alternatives, several more initial candidates were added.
+* Kannu
+* Udemy
+* Schoology
+* Docebo
+* LifterLMS (a WordPress LMS plug-in)
+* LearnDash (another WordPress LMS plug-in)
+* Opigno LMS (a Drupal distribution)
+
+Deeper platform research by @JustinJohnsen identified questions and weaknesses in several of the candidates, summarized below.
+* One question about WP LMS is whether we can do everything Extend-related on one 'site', since many pricing options are based on the number of sites.
+* Tsugi seems important but way to theoretical or early-stage to be useful as a Coursera backup, especially perception-wise. Also likely would need at least one if not more dedicated developers/programmers.
+* ELMS appears more plausible than Tsugi, but still too new for full rollout like we want to offer in Extend. It definitely looks like it is moving in the direction we want, though. If we had the bandwidth, we should try using it for an internal purpose, maybe forming a LTS product review library or for our R&D team to document their efforts. That way we could get more firsthand experience and deeper evaluation without the pressure that producing public courses would bring.
+* Udemy has a lot of documentation supporting instructors, but I'm concerned about the ability to host the courses through extend.duke.edu and about the freedom to opt out of discounts deals and other marketing actions.
+* Moodle Academy's home website is so bad and simple that I immediately dropped it from consideration as a candidate.
+
+Following more discussion with the Duke Extend service team and the Learning Technology team, we trimmed the candidate list down to four.
+* OpenCraft hosting of Open edX (i.e. status quo platform)
+* Kannu
+* Schoology
+* LearnDash WP plug-in
+
